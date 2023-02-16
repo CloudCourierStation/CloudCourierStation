@@ -14,7 +14,7 @@
 
 #### 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=golang,py,shell,mongodb,md,kubernetes,docker,nginx,jenkins,git,github,gitlab,vscode,idea,cloudflare,workers,linux,prometheus,redis,mysql,openshift,openstack,aws&theme=light)
+![skills](https://skillicons.dev/icons?i=golang,py,mongodb,md,kubernetes,docker,nginx,jenkins,git,github,gitlab,vscode,idea,cloudflare,workers,linux,prometheus,redis,mysql,openshift,openstack,aws&theme=light)
 
 
 
