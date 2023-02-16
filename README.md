@@ -1,36 +1,28 @@
-### Hey，我是云原生驿站 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I am 云原生驿站(CloudCourierStation) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
 
-你好， 我是 [云原生驿站] ，出生于1999年，一位有1年工作经验的云开发工程师,欢迎参考我的github主页
-微信公众号搜索【云原生驿站】可以查看我的最新文章
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=CloudCourierStation&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
+
+#### 🎯 Information about me
+🔭 I’m currently working in GuangZhou China.
+🌱 I’m currently using Golang & Shell。
+😄 Pronouns: qiuqiu/CloudCourierStation
+💦 I'm always sleepy (or you can buy me a cup of coffee to wake me up!)
+🏷 WeChat Official Account: 云原生驿站
 
 
+#### 🔧 Technologies
 
-- 💬 如果你对我感兴趣，可以加我[微信](http://r76e4upjz.hn-bkt.clouddn.com/WechatIMG747.jpeg) 进一步交流。
-
-**技术栈 与 开发工具:**
-
-- kubernetes
-- OpenStack
-- Golang
-- Prometheus
-
-**我的开源项目:**
-
-
-
-----------
-
-😉 **我的自学之路:**
-
-
-----------
-
-✍️ **我的文章:**
+![skills](https://skillicons.dev/icons?i=golang,py,shell,mongodb,md,kubernetes,docker,nginx,jenkins,git,github,gitlab,vscode,idea,cloudflare,workers,linux,prometheus,redis,mysql,openshift,openstack,aws&theme=light)
 
 
 
 
+<p>
+  <img src="https://api.githubtrends.io/user/svg/CloudCourierStation/langs?time_range=one_year&theme=classic" />
+  <img src="https://api.githubtrends.io/user/svg/CloudCourierStation/repos?time_range=one_year&theme=classic" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CloudCourierStation&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10" />
+</p>
  
 
