@@ -17,12 +17,17 @@
 ![skills](https://skillicons.dev/icons?i=golang,py,mongodb,md,kubernetes,docker,nginx,jenkins,git,github,gitlab,vscode,idea,cloudflare,workers,linux,prometheus,redis,mysql,openshift,openstack,aws&theme=light)
 
 
-
-
-<p>
-  <img src="https://api.githubtrends.io/user/svg/CloudCourierStation/langs?time_range=one_year&theme=classic" />
-  <img src="https://api.githubtrends.io/user/svg/CloudCourierStation/repos?time_range=one_year&theme=classic" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CloudCourierStation&show_icons=true&locale=en&layout=compact&hide=html&langs_count=10" />
-</p>
  
 
+# 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=CloudCourierStation&theme=vue-dark&hide_border=false&bg_color=3b580a)
+
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=CloudCourierStation&show_icons=true&locale=en&theme=vue-dark&hide_border=false&bg_color=3b580a)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CloudCourierStation&theme=vue-dark&hide_border=false&bg_color=3b580a)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCourierStation&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=3b580a)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CloudCourierStation&theme=radical&no-frame=false&no-bg=false&margin-w=4)
